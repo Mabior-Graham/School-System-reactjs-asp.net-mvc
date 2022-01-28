@@ -4,8 +4,7 @@
 #How to run students-react app it
 
 #1 Download the project files
-#2 Create a new React App
+#2 Open your terminan and navigate to the folder
 (node_modules folder is missing)
-#3 Copy the files and folders from student-react to the new react app you have created.
-#4 Confirm to replace the files and folders that already exist in your new react app.
-#5 You can now run the project.
+#3 run the command "npm install"
+#4 You can now run the project.
